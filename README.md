@@ -1,2 +1,0 @@
-# MobileResponsivePro
-Created with CodeSandbox
